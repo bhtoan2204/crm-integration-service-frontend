@@ -1,0 +1,8 @@
+export { customerService } from './customerService'
+export { callService } from './callService'
+export { orderService } from './orderService'
+export { quotationService } from './quotationService'
+export { documentService, activityService } from './documentService'
+export { employeeService, authService } from './employeeService'
+export { reportService } from './reportService'
+export { integrationService, crmProvider, telephonyProvider } from './integrationService'
